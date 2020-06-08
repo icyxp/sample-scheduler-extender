@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/cnych/sample-scheduler-extender/controller"
 	"log"
 	"math/rand"
 	"net/http"
+	"sample-scheduler-extender/controller"
 	"time"
 
 	"github.com/julienschmidt/httprouter"
